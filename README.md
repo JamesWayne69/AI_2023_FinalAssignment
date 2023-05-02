@@ -2,8 +2,8 @@
 
 # Instructions
 
-Create a Folder for their respective teams    return
-Add a README.md file with 
-                - Project Name
-                - Team Members
+Create a Folder for their respective teams    <br>
+Add a README.md file with  <br>
+                - Project Name <br>
+                - Team Members <br>
                 
