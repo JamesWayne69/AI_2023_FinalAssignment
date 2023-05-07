@@ -1,4 +1,4 @@
-# Sending Auto-Generated Messages based on person's attributes using ChatGPT 
+# Sending Auto-Generated Interesting Facts using ChatGPT 
     
 # Team
 Aaron Saji Alexander
