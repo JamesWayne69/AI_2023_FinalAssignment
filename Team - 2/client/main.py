@@ -67,7 +67,7 @@ def ask_question(question):
 
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 response=""
 question=""
 prompt=""
