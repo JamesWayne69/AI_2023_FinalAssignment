@@ -1,6 +1,6 @@
 # Team  - 5 
-# Team Members : 1) Gautham   2) Manjula Shanmugam  3) Arivazhagan
 # Project Name : Blink Detection using python
+# Team Members : 1) Gautham   2) Manjula Shanmugam  3) Arivazhagan
 🙌 </br>
 # Commands to run: 
 Install OpenCV </br>
