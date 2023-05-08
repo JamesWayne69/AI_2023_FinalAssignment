@@ -142,7 +142,7 @@ def main():
     # Make graph undirected, create symmetric connections
     graph.make_undirected()
         
-    # Create heuristics (straight-line distance, air-travel distance) for Destination Bucharest
+    # Create heuristics (straight-line distance, air-travel distance) for Destination 
     heuristics = {}
     heuristics['Arad'] = 366
     heuristics['Bucharest'] = 0
