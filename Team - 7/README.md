@@ -1,4 +1,6 @@
-# Grandmaster Level Chess AI (always in progress)
+# Team  - 7 
+# Project Name : Grandmaster Level Chess AI 
+### Team Members : 1) Vaishnavi   2) Joyson
 
 This is a chess AI and chess game built using python. 
 
